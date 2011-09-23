@@ -28,3 +28,5 @@ create charts
 ##About:
 Since its early alpha version most of code is going to be rewriten!
 If you want to request a feature post an issue.
+
+Kuebk
