@@ -124,3 +124,5 @@ var createHttpServer = function(){
 	});
 	httpServer.listen(httpServerPort);
 };
+
+console.log('ok');
